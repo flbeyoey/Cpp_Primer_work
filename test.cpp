@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    cout << "Hello, C++!" << endl;
+    string str(24,'c');
+    cout << str;
     return 0;
 }
